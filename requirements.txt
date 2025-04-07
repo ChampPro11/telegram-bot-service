@@ -1,9 +1,6 @@
-cececececececece
-c
-
-
-c
-c
-c
-c
-c
+python-telegram-bot==13.15
+requests
+flask
+pyngrok
+Pillow
+gunicorn 
